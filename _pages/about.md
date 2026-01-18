@@ -10,7 +10,8 @@ redirect_from:
 
 Applied AI Engineer specializing in agentic AI systems, large language models, and production ML infrastructure. Experienced in building intelligent automation solutions, multimodal AI systems, and scalable backend services.
 
-Currently working at Leap Event Technology, building AI agents using Google ADK and OpenAI APIs for large-scale event automation. Published researcher .
+Currently working at Leap Event Technology, building AI Agentic systems using  OpenAI APIs for large-scale event automation. 
+
 
 ## Research Interests
 - Agentic AI & Multi-Agent Systems
