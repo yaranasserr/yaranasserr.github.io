@@ -12,7 +12,7 @@ site_theme               : "default" # The available themes options are "default
 title                    : "Yara Mohamed Nasser"
 title_separator          : "-"
 name                     : &name "Yara Mohamed Nasser"
-description              : &description "Applied AI Engineer specializing in agentic AI, LLMs, and production ML systems"
+description              : &description "Applied AI Engineer specializing in agentic AI, Computer Vision, and production ML systems"
 url                      : https://yaranasserr.github.io # The base hostname & protocol for your site
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "yaranasserr/yaranasserr.github.io"
@@ -26,7 +26,7 @@ author:
   name             : "Yara Mohamed Nasser"
   pronouns         : "she/her"  
   bio              : "Applied AI Engineer | AI Researcher | Published at ICRA 2026"
-  location         : "Cairo, Egypt"
+  location         : "Alexandria, Egypt"
   employer         : "Leap Event Technology"
   uri              : # URL
   email            : "yarrymnasser@gmail.com" 
