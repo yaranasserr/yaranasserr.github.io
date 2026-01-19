@@ -37,7 +37,14 @@ Work Experience
   * Co-founded AI team specializing in computer vision and NLP, mentoring newcomers in AI and software development
   * Designed and developed control software systems and GUIs using Node.js and Svelte for ROV and AUV Autonomous Underwater Vehicle systems
   * Implemented real-time object detection and tracking algorithms for underwater navigation and obstacle avoidance
-
+  * 
+Publications
+======
+* **Latent Action Pretraining Through World Modeling** (Submitted to ICRA 2026)
+  * Authors: Bahey Tharwat, **Yara Nasser**, Ali Abouzied, Ian Reid
+  * Supervised by [Prof. Ian D. Reid](https://mbzuai.ac.ae/study/faculty/ian-reid/), Mohamed bin Zayed University of Artificial Intelligence (MBZUAI)
+  * [arXiv Paper](https://arxiv.org/abs/2509.18428)
+  * 
 ## Software Development Experience
 
 * **Feb 2025 - Oct 2025: Python Backend Developer**
@@ -95,12 +102,7 @@ Skills
   * English (Fluent)
   * French (Intermediate)
 
-Publications
-======
-* **Latent Action Pretraining Through World Modeling** (Submitted to ICRA 2026)
-  * Authors: Bahey Tharwat, **Yara Nasser**, Ali Abouzied, Ian Reid
-  * Supervised by [Prof. Ian D. Reid](https://mbzuai.ac.ae/study/faculty/ian-reid/), Mohamed bin Zayed University of Artificial Intelligence (MBZUAI)
-  * [arXiv Paper](https://arxiv.org/abs/2509.18428)
+
 
 Certificates
 ======
