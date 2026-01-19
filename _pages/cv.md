@@ -128,4 +128,4 @@ For a complete list of projects, please visit my [Portfolio](/portfolio/) page.
 
 ---
 
-[Download PDF Resume](/files/yara_nasser_resume.pdf) *(Optional - upload your PDF resume to the files/ folder)*
+[Download PDF Resume](/files/YaraNasser2026AIResume.pdf) 
